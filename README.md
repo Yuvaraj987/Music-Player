@@ -67,3 +67,5 @@ For questions or support, please reach out via [GitHub Issues](https://github.co
 Developed by [Yuvaraj987](https://github.com/Yuvaraj987)
 
 A simple and efficient URL Shortener application. This project allows users to shorten long URLs, manage shortened links, and track usage statistics.
+
+---
