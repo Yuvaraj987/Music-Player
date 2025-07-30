@@ -4,12 +4,12 @@ This project allows users to play, pause, and manage their music library, suppor
 
 ## Features
 
-- Play, pause, and stop audio tracks
-- Playlist management
-- Support for multiple audio formats (e.g., MP3, WAV)
-- Responsive and user-friendly UI
-- Track information display (title, artist, album)
-- Volume control and mute functionality
+- ▶️ Play, ⏸️ Pause, and ⏹️ Stop audio tracks  
+- 📋 Playlist management  
+- 🎶 Support for multiple audio formats (e.g., MP3, WAV)  
+- 🖥️ Responsive and user-friendly UI  
+- ℹ️ Track information display (title, artist, album)  
+- 🔊 Volume control and mute functionality 
 
 ## Screenshot
 
