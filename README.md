@@ -11,10 +11,6 @@ This project allows users to play, pause, and manage their music library, suppor
 - ℹ️ Track information display (title, artist, album)  
 - 🔊 Volume control and mute functionality 
 
-## Screenshot
-
-
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
